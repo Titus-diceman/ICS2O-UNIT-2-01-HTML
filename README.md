@@ -1,4 +1,4 @@
-# ICS2O-unit-2-01-html\
+# ICS2O-unit-2-01-html
 
 [![GitHub's Super Linter](https://github.com/Titus-diceman/ICS2O-unit-2-01-html/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Titus-diceman/ICS2O-unit-2-01-html/actions)
 
